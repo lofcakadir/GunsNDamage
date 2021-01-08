@@ -7,10 +7,10 @@
 ---
 ```
 Plugin Installation:
-Extract plugin file to your project "Plugins" folder. Create one if missing.
+- Extract plugin file to your project "Plugins" folder. Create one if missing.
 
-Right click on your project file and "Generate Visual Studio Project Files".
+- Right click on your project file and "Generate Visual Studio Project Files".
 
-From the generated Visual Studio file, build your project.
+- From the generated Visual Studio file, build your project.
 
-Launch your project!
+- Launch your project!
