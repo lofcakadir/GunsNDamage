@@ -13,4 +13,4 @@ Right click on your project file and "Generate Visual Studio Project Files".
 
 From the generated Visual Studio file, build your project.
 
-Launch your project!```
+Launch your project!
